@@ -1,2 +1,2 @@
-# NSDO
-NSDO: A Neural Spectral Dynamics Framework for Complex Spatiotemporal Sequence Prediction
+# NeuroSD
+NeuroSD:A Neural Spectral Dynamics Framework for Complex Spatio-temporal Sequence Prediction
