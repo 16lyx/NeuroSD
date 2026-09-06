@@ -16,7 +16,7 @@
 > NeuroSD integrates a Spectral Dependency Operator Block, a Dual-layer Dynamic Spatiotemporal Memory module, and a Neural ODE-based latent evolution module to capture global spatial dependencies, aggregate historical dynamics, and improve long-term prediction stability.
 
 <div align="center">
-  <img src="figures/framework.png" width="100%" alt="The NeuroSD framework">
+  <img src="figures/framework.png?v2" width="100%" alt="The NeuroSD framework">
   <br>
   <em>Overall framework of NeuroSD.</em>
 </div>
